@@ -5,11 +5,11 @@
 
 <div align="center">
 
-# Hey, I'm Shyam Katariya 👋
+# Hi, I'm Shyam Katariya 👋
 
-### Full-Stack Developer
+### Full-Stack Developer | Angular • TypeScript • Node.js • NestJS
 
-Building web applications and learning across the stack — from responsive frontends to backend services, databases, and deployment.
+I build end-to-end web applications, from thoughtful user interfaces to backend services, data layers, and production delivery.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyam-katariya-6146431bb/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0E9F8F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mediumturquoise-fox-633667.hostingersite.com/shyam.html)
@@ -21,13 +21,44 @@ Building web applications and learning across the stack — from responsive fron
 
 ## About Me
 
-I'm a **Full-Stack Developer** interested in building practical, maintainable software across the frontend and backend. I enjoy working across the application lifecycle: understanding requirements, designing interfaces, implementing APIs, managing data, and supporting delivery.
+I'm a **Full-Stack Developer** who enjoys turning business requirements into reliable, maintainable software. I work across the application lifecycle: frontend architecture, backend development, API integration, database design, and deployment workflows.
 
-- Developing frontend applications with **Angular, React, TypeScript, and JavaScript**.
-- Building backend services with **Node.js, NestJS, and Java**.
-- Working with **MongoDB** and **PostgreSQL** for data storage.
-- Exploring reliable delivery with **Docker and CI/CD**.
-- Continuously learning through hands-on projects and problem solving.
+My day-to-day interests include building scalable web platforms, improving existing applications, and creating solutions that are useful to real users.
+
+- Frontend development with **Angular, React, TypeScript, and JavaScript**.
+- Backend development with **Node.js, NestJS, and Java**.
+- Data modelling and persistence with **MongoDB and PostgreSQL**.
+- Containerization and delivery workflows using **Docker and CI/CD**.
+- Application architecture, API design, integrations, and real-time features.
+
+## Professional Experience
+
+**WebCodeGenie Pvt. Ltd.** · *November 2024 – Present*  
+Full-Stack Development
+
+Working on web application development across frontend and backend technologies, with an emphasis on building and maintaining production-ready features, improving application architecture, and delivering business-focused solutions.
+
+My project experience includes areas such as CRM platforms, SaaS applications, and business workflows across domains including lawn care, fleet management, real estate, and fintech.
+
+## Selected Impact
+
+A few highlights from the work described in my portfolio:
+
+- Contributed to applications serving **900+ active users**.
+- Worked on **three production Angular migrations**.
+- Contributed to end-to-end CRM development, including frontend and backend functionality.
+- Worked with real-time application capabilities, including **WebSocket-based** features.
+
+## Featured Projects
+
+| Project | Overview |
+|---|---|
+| **CRM & SaaS Applications** | Business-focused application development, workflows, integrations, and full-stack features. See my [portfolio](https://mediumturquoise-fox-633667.hostingersite.com/shyam.html) for project details. |
+| [TatvaSoft-Project](https://github.com/Shyam-Katariya/TatvaSoft-Project) | React-based bookstore application. |
+| [TatvaSoft-Internship](https://github.com/Shyam-Katariya/TatvaSoft-Internship) | Frontend internship project built with React. |
+| [Student-Managment](https://github.com/Shyam-Katariya/Student-Managment) | Java/JSP student management application. |
+| [JavaScript](https://github.com/Shyam-Katariya/JavaScript) | JavaScript concepts, examples, and practice. |
+| [Java-DSA](https://github.com/Shyam-Katariya/Java-DSA) | Java fundamentals and data structures practice. |
 
 ## Tech Stack
 
@@ -49,45 +80,34 @@ I'm a **Full-Stack Developer** interested in building practical, maintainable so
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Tools & Delivery**
+**DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## Selected Repositories
+## Current Focus
 
-A few repositories from my learning and development work:
-
-| Repository | What you'll find |
-|---|---|
-| [TatvaSoft-Project](https://github.com/Shyam-Katariya/TatvaSoft-Project) | React-based bookstore project |
-| [TatvaSoft-Internship](https://github.com/Shyam-Katariya/TatvaSoft-Internship) | Frontend internship project |
-| [Student-Managment](https://github.com/Shyam-Katariya/Student-Managment) | Java/JSP student management application |
-| [JavaScript](https://github.com/Shyam-Katariya/JavaScript) | JavaScript learning examples and practice |
-| [Java-DSA](https://github.com/Shyam-Katariya/Java-DSA) | Java and data structures practice |
-| [React](https://github.com/Shyam-Katariya/React) | React learning and demo work |
-
-## What I'm Focusing On
-
-- Building maintainable full-stack applications.
-- Improving application architecture and API design.
-- Strengthening database design and performance fundamentals.
-- Making development and deployment workflows more reliable.
-- Deepening problem-solving skills with Java and data structures.
+- Designing scalable SaaS and multi-application architectures.
+- Building maintainable Angular applications and exploring modular frontend patterns.
+- Developing robust backend services and REST APIs with Node.js and NestJS.
+- Improving database modelling, query performance, and data integrity.
+- Strengthening Docker-based development and CI/CD automation.
+- Continuing to improve problem-solving skills with Java and data structures.
 
 ## Let's Connect
 
-I'm always glad to connect with developers, exchange ideas, and discuss interesting software projects.
+I'm open to connecting with developers, collaborating on interesting products, and discussing full-stack engineering.
 
-- **LinkedIn:** [linkedin.com/in/shyam-katariya-6146431bb](https://www.linkedin.com/in/shyam-katariya-6146431bb/)
-- **Portfolio:** [View my portfolio](https://mediumturquoise-fox-633667.hostingersite.com/shyam.html)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/shyam-katariya-6146431bb/)
+- **Portfolio:** [Explore my work](https://mediumturquoise-fox-633667.hostingersite.com/shyam.html)
+- **GitHub:** [Explore my repositories](https://github.com/Shyam-Katariya)
 
 ---
 
 <div align="center">
 
-*Thanks for visiting my profile!*
+*Thanks for stopping by. Happy building!*
 
 </div>
