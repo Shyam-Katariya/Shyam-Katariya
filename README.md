@@ -33,9 +33,6 @@ My day-to-day interests include building scalable web platforms, improving exist
 
 ## Professional Experience
 
-**WebCodeGenie Pvt. Ltd.** · *November 2024 – Present*  
-Full-Stack Development
-
 Working on web application development across frontend and backend technologies, with an emphasis on building and maintaining production-ready features, improving application architecture, and delivering business-focused solutions.
 
 My project experience includes areas such as CRM platforms, SaaS applications, and business workflows across domains including lawn care, fleet management, real estate, and fintech.
